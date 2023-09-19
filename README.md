@@ -32,6 +32,7 @@ This project utilizes Terraform to deploy a Virtual Private Cloud (VPC) in AWS. 
 - Review the syntax to ensure accuracy.
 - Save all files and close them.
 
+
 ## Phase 2: Project Deployment and Verification
 
 **Description:** This phase involves initializing Terraform, configuring backend settings, setting up variables, and deploying the VPC in the AWS environment.
