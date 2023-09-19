@@ -69,5 +69,4 @@ This project utilizes Terraform to deploy a Virtual Private Cloud (VPC) in AWS. 
 - Verify the created VPC in the AWS Management Console.
 - Confirm the existence of subnets, route tables, and associations.
 - Use `terraform destroy` to delete the VPC if desired.
-![image](https://github.com/Bendkles/Terraform-AWS-VPC/assets/101203669/0fcf4bdd-5c26-40c8-89bd-b64c17400507)
 
